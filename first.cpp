@@ -11,4 +11,5 @@ int main() {
     cout<<"QUADRADO: "<< fixed<< setprecision (3) <<(B*B)<<endl;
     cout<<"RETANGULO: "<< fixed<< setprecision (3) <<(A*B)<<endl;
     return 0;
-}
+} 
+// hello
